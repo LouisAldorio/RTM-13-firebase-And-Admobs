@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119275737869",
+    "project_id": "rtm-12-firebase-and-admob",
+    "storage_bucket": "rtm-12-firebase-and-admob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119275737869:android:1a3f77f2ef9f5182f69644",
+        "android_client_info": {
+          "package_name": "com.mindorks.framework.firebaseandadmobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119275737869-1r06jtnupmbr037n266fin5fu5bse1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6cXvRFUsE8rewf5h-biyftJFtCAPw1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119275737869-1r06jtnupmbr037n266fin5fu5bse1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
